@@ -2,6 +2,6 @@ streamlit
 numpy
 pandas
 rembg
-cv2
+opencv-python
 io
 PIL
