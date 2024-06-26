@@ -1,6 +1,6 @@
-streamlit
-numpy
-pandas
-rembg
-opencv-python
-PIL
+streamlit==1.36.0
+numpy==2.0.0
+pandas==2.2.2
+rembg==2.0.57
+opencv-python==4.10.0.84
+
